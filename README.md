@@ -80,8 +80,9 @@ A solução foi modelar um banco de dados relacional completo utilizando **Postg
 
 ## Modelagem
 
-<img width="1372" height="745" alt="image" src="https://github.com/user-attachments/assets/9fc2c086-c79f-42a9-bb66-a9013b5e29e0" />
+link: https://dbdiagram.io/d/69bcaa73fb2db18e3bc38619
 
+<img width="1372" height="745" alt="image" src="https://github.com/user-attachments/assets/9fc2c086-c79f-42a9-bb66-a9013b5e29e0" />
 
 ## 📁 Estrutura de Pastas
 
