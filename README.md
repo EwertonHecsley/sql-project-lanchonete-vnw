@@ -78,6 +78,11 @@ A solução foi modelar um banco de dados relacional completo utilizando **Postg
 
 ---
 
+## Modelagem
+
+<img width="1372" height="745" alt="image" src="https://github.com/user-attachments/assets/9fc2c086-c79f-42a9-bb66-a9013b5e29e0" />
+
+
 ## 📁 Estrutura de Pastas
 
 ```
@@ -526,5 +531,5 @@ O projeto foi desenvolvido com uma base sólida, e há diversas possibilidades d
 ---
 
 <p align="center">
-  Feito com ❤️ e muito SQL por <strong>Ewerton Hecsley</strong>
+  Feito com muito foco e muito SQL por <strong>Ewerton Hecsley</strong>
 </p>
